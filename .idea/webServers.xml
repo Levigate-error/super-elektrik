@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ed9a6fd-7a8d-4a26-b4b4-62d34a9b010f" name="super-electric">
+        <fileTransfer accessType="SFTP" host="217.74.39.228" port="22" sshConfigId="a36cd350-a788-4b31-a2f3-123c68de7c0a" sshConfig="electric">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
